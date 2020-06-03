@@ -1,0 +1,12 @@
+p {
+    border: 1px solid grey;
+}
+
+body {
+    margin-right: 80%;
+}
+
+p:hover {
+    background: purple;
+    cursor: pointer;
+}
